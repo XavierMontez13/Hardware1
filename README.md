@@ -1,1 +1,2 @@
-# Hardware1
+# Hardware
+THIS IS MY COMPARISON PAGE
